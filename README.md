@@ -1,2 +1,2 @@
-## The Car_price_dataset is for EDA_1
-## The Movie datase is for EDA_2 
+## The car_price_dataset.csv file is for EDA_1
+## The Movie.csv file is for EDA_2 
