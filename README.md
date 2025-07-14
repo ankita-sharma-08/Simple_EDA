@@ -1,12 +1,7 @@
 ## The car_price_dataset.csv file is for EDA_1
 ## The Movie.csv file is for EDA_2 
-I've analyzed the provided Jupyter Notebooks and generated a README file for each, summarizing their contents and key findings.
 
----
-
-## **README for MultipleFiles/EDA_1_.ipynb**
-
-### **Project Title: Car Price Dataset Exploratory Data Analysis (EDA)**
+## ** For EDA_1_.ipynb**
 
 ### **Overview**
 This Jupyter Notebook (`EDA_1_.ipynb`) performs an exploratory data analysis on a car price dataset. The goal of this analysis is to understand the characteristics of the car market, identify trends, and extract meaningful insights from the data.
@@ -96,9 +91,7 @@ The notebook addresses several specific questions about the car price dataset:
 
 ---
 
-## **README for MultipleFiles/EDA_2_.ipynb**
-
-### **Project Title: Movies Dataset Exploratory Data Analysis (EDA)**
+## ** For EDA_2_.ipynb**
 
 ### **Overview**
 This Jupyter Notebook (`EDA_2_.ipynb`) conducts an exploratory data analysis on a movie dataset. The primary objective is to understand the dataset's structure, identify missing values, and extract basic insights related to movie and show characteristics.
